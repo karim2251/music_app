@@ -67,7 +67,7 @@ color: white;
 /* right sidebar */
 .sidbarright{
   position: sticky;
-  max-height: 80vh;
+  max-height: 76vh;
   overflow-x: auto;
  
 }
